@@ -1,0 +1,13 @@
+.hero {
+  background-image: url('http://thumbs.dreamstime.com/z/little-girl-taking-picture-using-vintage-film-camera-cute-child-photos-roll-autumn-background-34907528.jpg');
+}
+
+ul.check li {
+  list-style: none;
+  font-size: 2em;
+}
+ul.check li:before {
+  font-family: 'FontAwesome';
+  content:"\f00c";
+  margin-right: 10px;
+}
