@@ -1,5 +1,9 @@
 .hero {
-  background-image: url('http://thumbs.dreamstime.com/z/little-girl-taking-picture-using-vintage-film-camera-cute-child-photos-roll-autumn-background-34907528.jpg');
+  background-image: url('roughheader.JPG');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: white;
 }
 
 ul.check li {
